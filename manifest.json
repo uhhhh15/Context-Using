@@ -6,6 +6,6 @@
     "js": "index.js",
     "css": "style.css",
     "author": "uhhhh15",
-    "version": "1.2.0",
+    "version": "1.2.2",
     "description": "统计每次实际发送的上下文 tokens 构成（聊天 / 世界书 / 其他），并可查看完整上下文与对比历史发送。"
 }
